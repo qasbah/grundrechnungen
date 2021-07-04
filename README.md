@@ -1,2 +1,2 @@
 # Grundrechnungen
-basic math operations tool
+math basic operations tool
